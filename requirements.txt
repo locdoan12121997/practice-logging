@@ -54,7 +54,7 @@ shutilwhich==1.1.0
 six==1.11.0
 SQLAlchemy==1.2.6
 SQLAlchemy-Utils==0.33.3
-urllib3==1.22
+urllib3==1.26.5
 vine==1.1.4
 virtualenv-clone==0.2.6
 voluptuous==0.11.1
